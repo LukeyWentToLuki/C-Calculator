@@ -11,4 +11,8 @@ Open a folder or just create a C++ Text File and paste my code.
 
 Run my code and you have a calculator.
 
+> [!WARNING]
+> Calculator is subject to breaking down. It also doesn't work that well.
+
+
 
